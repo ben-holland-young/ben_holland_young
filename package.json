@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gulp-clean-css": "^3.0.3",
+    "gulp-deploy-ftp": "0.0.2",
     "gulp-nunjucks-render": "^2.0.0",
+    "gulp-uglify": "^2.0.1",
     "require-dir": "^0.3.1"
   }
 }

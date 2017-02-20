@@ -1,0 +1,9 @@
+.footer ul li a {
+  display: block; }
+
+.form-box {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 15%;
+  border: 1px solid black;
+  padding: 20px 20px 20px 20px; }
